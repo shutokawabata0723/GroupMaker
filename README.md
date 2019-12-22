@@ -1,9 +1,9 @@
 # make_group
-create team (group) members just input number that you want to split.
+create team members just input number that you want to split.
 
 ## How to use
 
-add or remove member from `members.txt`
+add member to `members.txt`
 
 ```txt:
 name1
@@ -14,7 +14,7 @@ name4
 ```
 
 
-`python3 make_g.py`
+Run `python3 make_g.py`
 
 you will be asked `how many groups you want?: `
 
@@ -22,3 +22,9 @@ Then please input number of group that you want.
 
 each group members are shown like below.
 
+```console:
+$ python3 make_g.py 
+how many groups you want?: 2
+ 1  ['Amuro', 'Kira', 'Haine', 'Rakusu', 'Shin', 'Asuran', 'Kagari']
+ 2  ['Nikoru', 'Izahku', 'Rei', 'Dhiakka', 'Meirin', 'Runamaria']
+ ```
