@@ -30,7 +30,7 @@ you will be asked `how many groups you want?: `
 
 Then please input number of group that you want.
 
-each group members are shown like below.
+each group members are shown as console output like below.
 
 ```console:
 how many groups you want?: 2
