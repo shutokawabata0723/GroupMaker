@@ -5,12 +5,22 @@ create team members just input number that you want to split.
 
 add member to `members.txt`
 
-```txt:
-name1
-name2
-name3
-name4
+```txt:members.txt
+Kira
+Asuran
+Shin
+Runamaria
+Meirin
+Kagari
+Haine
+Rakusu
+Amuro
+Rei
+Izahku
+Dhiakka
+Nikoru
 ...
+[add name]
 ```
 
 
