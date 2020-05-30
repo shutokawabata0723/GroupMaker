@@ -1,4 +1,4 @@
-# make_group
+# Group-Maker
 create team members just input number that you want to split.
 
 ## How to use
